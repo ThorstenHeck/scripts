@@ -1,0 +1,1 @@
+nmcli connection delete id OpenVPN_openvpn_hetzner
